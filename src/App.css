@@ -1,0 +1,89 @@
+.container{
+  margin-top: 20vh;
+}
+
+.welcome-div{
+  width: 600px;
+  height: 500px;
+  border: 1px solid #999999;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.mybtn{
+  margin-top: 1vh;
+  font-size: 20px;
+}
+
+.my-first-header{
+  font-size: 35px;
+  color: #616161;
+}
+
+.my-second-header{
+  font-size: 35px;
+  color: rgb(27, 27, 27);
+}
+
+.sm-header{
+  color: #616161;
+}
+
+.rsr-label{
+  font-size: 20px;
+  margin-right: 10vh;
+  color: rgb(27, 27, 27);
+}
+
+.rsr-label-2{
+  font-size: 20px;
+  float: left;
+  color: rgb(27, 27, 27);
+  margin: 10px;
+}
+
+.second-btn{
+  width: 80%;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.third-btn{
+  width: 80%;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+p{
+  font-size: 40px;
+  color: #616161;
+}
+
+.dash-div{
+  width: 800px;
+  height: 600px;
+  text-align: center;
+  border: 1px solid #616161;
+  overflow: auto;
+}
+
+.dash-div hr{
+  color: blue;
+}
+
+.backbtn{
+  float: left;
+}
+
+.cancel-btn{
+  font-size: 10px;
+  float: right;
+}
+
+.table-container{
+  height: 300px;
+  overflow-y: scroll;
+}
